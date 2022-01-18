@@ -1,9 +1,15 @@
 {
     "name": "fbaudet/pixassociates_sortable-behavior-bundle",
     "type": "symfony-bundle",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/fbaudet/pixSortableBehaviorBundle"
+        }
+    ],
     "description": "Provides a way to sort your admin listing",
     "keywords": ["sortable","admin","sonata"],
-    "homepage": "https://github.com/pix-digital/pixSortableBehaviorBundle",
+    "homepage": "https://github.com/fbaudet/pixSortableBehaviorBundle",
     "license": "MIT",
     "authors": [
         {
